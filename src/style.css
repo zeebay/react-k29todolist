@@ -1,0 +1,17 @@
+h1, p {
+  font-family: Lato;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.todo {
+  cursor: pointer;
+}
